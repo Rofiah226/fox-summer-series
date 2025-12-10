@@ -1,14 +1,23 @@
 body{
-    background-color: rgb(248, 192, 255);
+    background-color:  #8897a8;
+    color: pink;
 }
 
+h1{
+    font-size: 3rem;
+}
 
 li{
     list-style: none;
+    /* text-align: center; */
+
 }
 a{
     text-decoration: none;
     color: black;
     display: block;
     font-size: 1.5rem;
+    padding: 3px;
+    padding-left: 19px;
+    /* text-align: center; */
 }
